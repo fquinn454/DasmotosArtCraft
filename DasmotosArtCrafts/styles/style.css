@@ -1,6 +1,5 @@
 *{
     font-family: Helvetica;
-
 }
 
 h1, h2, h3{
@@ -25,6 +24,14 @@ span{
     font-weight: bold;
 }
 
+
+span.price{
+    color: blue;
+=======
+span{
+    font-weight: bold;
+}
+
 span.price{
     color: blue;
 }
@@ -40,4 +47,3 @@ h2.coral{
 h2.skyblue{
     background-color: skyblue;
 }
-
