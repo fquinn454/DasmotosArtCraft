@@ -3,10 +3,6 @@ body{
     font-weight: bold;
 }
 
-p{
-    font-weight: normal;
-}
-
 h1{
     background-image: url("../images/pattern.jpeg");
     width:300px;
@@ -21,8 +17,8 @@ h2{
     font-size: 32px;
 }
 
-h3{
-    
+p{
+    font-weight: normal;
 }
 
 .price{
