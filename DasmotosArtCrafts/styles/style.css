@@ -20,10 +20,14 @@ h2{
     font-size: 32px;
 }
 
-p{
-    font-weight: normal;
+span{
+    font-weight: bold;
 }
 
+
+span.price{
+    color: blue;
+=======
 span{
     font-weight: bold;
 }
