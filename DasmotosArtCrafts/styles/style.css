@@ -2,10 +2,6 @@
     font-family: Helvetica;
 }
 
-h1, h2, h3{
-    font-weight: bold;
-}
-
 h1{
     background-image: url("../images/pattern.jpeg");
     width:300px;
@@ -23,7 +19,6 @@ h2{
 span{
     font-weight: bold;
 }
-
 
 span.price{
     color: blue;
