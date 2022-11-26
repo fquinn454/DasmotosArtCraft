@@ -1,6 +1,6 @@
 *{
     font-family: Helvetica;
-    color:black;
+
 }
 
 h1, h2, h3{
@@ -19,10 +19,6 @@ h1{
 h2{
     color: white;
     font-size: 32px;
-}
-
-p{
-    font-weight: normal;
 }
 
 span{
