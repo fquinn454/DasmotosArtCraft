@@ -3,11 +3,17 @@ body{
     font-weight: bold;
 }
 
+strong{
+    color: blue;
+    display: inline;
+    font-weight: bold;
+}
+
 p{
     font-weight: normal;
 }
 
-.mainHeading{
+h1{
     background-image: url("../images/pattern.jpeg");
     width:300px;
     color: khaki;
@@ -33,6 +39,3 @@ p{
     background-color: skyblue;
 }
 
-.blueFont{
-    color: blue;
-}
