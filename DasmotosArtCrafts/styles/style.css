@@ -3,12 +3,6 @@ body{
     font-weight: bold;
 }
 
-strong{
-    color: blue;
-    display: inline;
-    font-weight: bold;
-}
-
 p{
     font-weight: normal;
 }
@@ -22,20 +16,30 @@ h1{
     width: 100%;
 }
 
-.subHeading{
+h2{
     color: white;
     font-size: 32px;
 }
 
-.greenBackground{
+h3{
+    
+}
+
+.price{
+    color: blue;
+    display: inline;
+    font-weight: bold;
+}
+
+#green{
     background-color: mediumspringgreen;
 }
 
-.coralBackground{
+#coral{
     background-color: lightcoral;
 }
 
-.blueBackground{
+#skyblue{
     background-color: skyblue;
 }
 
