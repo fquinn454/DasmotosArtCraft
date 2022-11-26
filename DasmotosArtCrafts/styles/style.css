@@ -7,12 +7,16 @@ p{
     font-weight: normal;
 }
 
-.mainheading{
+.mainHeading{
+    background-image: url("../images/pattern.jpeg");
+    width:300px;
     color: khaki;
     font-size: 100px;
+    text-align: center;
+    width: 100%;
 }
 
-.subheading{
+.subHeading{
     color: white;
     font-size: 32px;
 }
