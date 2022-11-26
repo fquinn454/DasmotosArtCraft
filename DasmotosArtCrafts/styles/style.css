@@ -23,8 +23,7 @@ p{
 
 .price{
     color: blue;
-    display: inline;
-    font-weight: bold;
+    font-size: bold;
 }
 
 #green{
