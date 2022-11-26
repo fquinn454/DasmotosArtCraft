@@ -3,16 +3,6 @@ body{
     font-weight: bold;
 }
 
-strong{
-    color: blue;
-    display: inline;
-    font-weight: bold;
-}
-
-p{
-    font-weight: normal;
-}
-
 h1{
     background-image: url("../images/pattern.jpeg");
     width:300px;
@@ -22,20 +12,29 @@ h1{
     width: 100%;
 }
 
-.subHeading{
+h2{
     color: white;
     font-size: 32px;
 }
 
-.greenBackground{
+p{
+    font-weight: normal;
+}
+
+.price{
+    color: blue;
+    font-size: bold;
+}
+
+#green{
     background-color: mediumspringgreen;
 }
 
-.coralBackground{
+#coral{
     background-color: lightcoral;
 }
 
-.blueBackground{
+#skyblue{
     background-color: skyblue;
 }
 
