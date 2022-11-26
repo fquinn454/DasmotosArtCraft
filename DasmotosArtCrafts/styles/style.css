@@ -23,18 +23,18 @@ p{
 
 .price{
     color: blue;
-    font-size: bold;
+    font-weight: bold;
 }
 
-#green{
+h2.green{
     background-color: mediumspringgreen;
 }
 
-#coral{
+h2.coral{
     background-color: lightcoral;
 }
 
-#skyblue{
+h2.skyblue{
     background-color: skyblue;
 }
 
