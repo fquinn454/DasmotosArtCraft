@@ -1,0 +1,43 @@
+.parent {
+    position: relative;
+    margin-top: 100px;
+    margin-left: 150px;
+    width:400px;
+    height: 400px;
+    background-color: #EF6AE9;
+
+}
+
+.child {
+    width:50%;
+    height: 50%;
+    background-color: red;
+}
+
+.parent:hover .child {
+    background-color: rgb(234, 223, 16);
+    animation: around 5s linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes around {
+    0%{
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateY(100%);
+    }
+
+    50% {
+        transform: translateX(100%) translateY(100%);
+    }
+
+    75% {
+        transform: translateX(100%) translateY(0);
+    }
+
+    100% {
+        transform: translateX(0) translateY(0);
+    }
+
+}
